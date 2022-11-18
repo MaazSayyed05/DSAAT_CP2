@@ -49,7 +49,7 @@ l10.place(x=100,y=460)
 
 
 
-b1=Button(borderwidth=3,relief=RAISED,bg="yellow",text="  1   ")
+b1=Button(borderwidth=3,relief=RAISED,bg="grey",text="  1   ")
 b1.place(x=30,y=100)#x-> change in X-axis
 
 b2=Button(borderwidth=3,relief=RAISED,bg="grey",text="  2   ")
